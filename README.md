@@ -1,9 +1,7 @@
 <h1 align="center">Salut 👋, Je suis KERRAD Juba</h1>
 <h3 align="center">Un étudiant passionné par le Développement Web !</h3>
 
-- 🔭 Je travaille actuellement sur **un Portfolio en Angular**
-
-- 🌱 Je suis actuellement en train de me former sur **Python**
+- 🔭 Je travaille actuellement sur **un Portfolio en Angular** et je me forme de mon côté sur **Python**
 
 - 👯 Je recherche actuellement **une Alternance en tant que Développeur Web**
 
